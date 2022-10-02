@@ -1,0 +1,6 @@
+      "object_type": "annotation",
+      "classification": {
+        "name": "Tumor",
+        "colorRGB": -3670016
+      },
+      "isLocked": false
