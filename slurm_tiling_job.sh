@@ -11,7 +11,7 @@
 
 # Receives PROJECT_DIR as a PARAMETER
 
-QUPATH_BIN=/mnt/netapp2/translational_oncology/QuPath/bin/QuPath
+QUPATH_BIN=/mnt/lustre/scratch/nlsas/home/usc/mg/translational_oncology/QuPath/bin/QuPath
 SRC_DIR=/home/usc/mg/ioc/repos/export_tiles
 PROJECT_NAME=${PROJECT_DIR##*/}
 
